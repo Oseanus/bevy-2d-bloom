@@ -7,7 +7,7 @@ use bevy::{
         tonemapping::Tonemapping,
     },
     prelude::*,
-    sprite::MaterialMesh2dBundle, transform::commands,
+    sprite::MaterialMesh2dBundle,
 };
 
 fn main() {
